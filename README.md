@@ -3,21 +3,17 @@
 
 - 🔭 I’m currently working on [Chat App](https://github.com/CertificationSurya/chatApp)  
   
-
 - 🌱 I’m currently learning React...  
-  
 
 - 👾 Give me a topic and a week at most  
   
-
 - ⚡ Fun fact: I usually have more than 10 tabs open during developing.  
   
-
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="60%">
 
 
 
@@ -38,7 +34,7 @@
 <a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="60%">
 
 
 
@@ -50,7 +46,7 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="40%">
 
 
 
@@ -90,19 +86,13 @@
 
 <br/>  
 
-
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=certificationsurya&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
 <br/>  
-
 
 ## Recent Blog Posts  
   
-
 <br/>  
-
-  
 
 <br/>  
 
@@ -122,5 +112,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
