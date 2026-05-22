@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/645/249/281/anime-manga-berserk-guts-hd-wallpaper-preview.jpg"
-       width="250"
+       width="500"
        height="250"
        style="border-radius: 1rem;" />
 
